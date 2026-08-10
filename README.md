@@ -25,7 +25,25 @@ Decorators allow you to modify or extend the behavior of functions without chang
 - Nested Functions
 - Function Wrapping
 ---
+## 2. Generators
 
+Generators produce values one at a time using the `yield` keyword instead of storing the complete sequence in memory.
+
+### Features
+
+- Lazy Evaluation
+- Memory Efficiency
+- Sequential Data Processing
+- Generator Pipelines
+
+### Concepts Covered
+
+- Generators
+- `yield`
+- Lazy Evaluation
+- Iteration
+- Memory Optimization
+- ---
 ## 3. Iterators
 
 A custom implementation of Python's iterator protocol using `__iter__()` and `__next__()`.
@@ -44,3 +62,23 @@ A custom implementation of Python's iterator protocol using `__iter__()` and `__
 - `__next__()`
 - `StopIteration`
 - Iterator Protocol
+
+- ---
+## 4. Lambda, Map, Filter & Reduce
+
+Demonstrates functional programming concepts in Python for concise data transformation and processing.
+
+### Features
+
+- Lambda Functions
+- Data Transformation with `map()`
+- Data Filtering with `filter()`
+- Aggregation with `reduce()`
+
+### Concepts Covered
+
+- Anonymous Functions
+- Functional Programming
+- Higher-Order Functions
+- Data Transformation
+- Collection Processing
