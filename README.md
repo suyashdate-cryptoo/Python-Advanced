@@ -82,3 +82,22 @@ Demonstrates functional programming concepts in Python for concise data transfor
 - Higher-Order Functions
 - Data Transformation
 - Collection Processing
+- ---
+## 5. Context Managers
+
+Demonstrates Python context managers using `__enter__()`, `__exit__()`, and the `with` statement for safe resource management.
+
+### Features
+
+- Resource Management
+- Automatic Cleanup
+- File Handling
+- Custom Context Manager
+
+### Concepts Covered
+
+- Context Managers
+- `with` Statement
+- `__enter__()`
+- `__exit__()`
+- Resource Management
