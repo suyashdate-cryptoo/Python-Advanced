@@ -101,3 +101,22 @@ Demonstrates Python context managers using `__enter__()`, `__exit__()`, and the 
 - `__enter__()`
 - `__exit__()`
 - Resource Management
+- ---
+## 6. Regular Expressions
+
+Demonstrates Python regular expressions for searching, matching, and extracting patterns from text.
+
+### Features
+
+- Pattern Matching
+- Email Extraction
+- Phone Number Extraction
+- Text Processing
+
+### Concepts Covered
+
+- Regular Expressions
+- `re` Module
+- `re.findall()`
+- Pattern Matching
+- Data Extraction
