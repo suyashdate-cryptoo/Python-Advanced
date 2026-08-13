@@ -120,3 +120,23 @@ Demonstrates Python regular expressions for searching, matching, and extracting 
 - `re.findall()`
 - Pattern Matching
 - Data Extraction
+- ---
+## 8. Multiprocessing
+
+Demonstrates Python multiprocessing for executing independent tasks using separate processes.
+
+### Features
+
+- Process Creation
+- Parallel Execution
+- CPU-Bound Task Handling
+- Process Synchronization
+
+### Concepts Covered
+
+- Multiprocessing
+- `multiprocessing` Module
+- Processes
+- `start()`
+- `join()`
+- CPU-Bound Tasks
