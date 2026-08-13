@@ -121,6 +121,25 @@ Demonstrates Python regular expressions for searching, matching, and extracting 
 - Pattern Matching
 - Data Extraction
 - ---
+## 7. Multithreading
+
+Demonstrates Python multithreading for executing multiple I/O-bound tasks concurrently.
+
+### Features
+
+- Thread Creation
+- Concurrent Task Execution
+- Thread Synchronization
+- `start()` and `join()`
+
+### Concepts Covered
+
+- Multithreading
+- `threading` Module
+- Thread Lifecycle
+- Concurrency
+- I/O-Bound Tasks
+- ---
 ## 8. Multiprocessing
 
 Demonstrates Python multiprocessing for executing independent tasks using separate processes.
